@@ -1,0 +1,79 @@
+[
+  {
+    "packageId": "PKG001",
+    "packageName": "Naran, Kaghan, Babusar Top",
+    "destination": "Naran, Pakistan",
+    "duration": "3 Days",
+    "description": "Visit Naran, Kaghan and Babusar Top with scenic valleys and mountains."
+  },
+  {
+    "packageId": "PKG002",
+    "packageName": "Swat, Kalam, Malam Jabba",
+    "destination": "Swat, Pakistan",
+    "duration": "3 Days",
+    "description": "Explore Swat Valley including Kalam and Malam Jabba."
+  },
+  {
+    "packageId": "PKG003",
+    "packageName": "Kashmir Tour",
+    "destination": "Kashmir, Pakistan",
+    "duration": "4 Days",
+    "description": "Enjoy the natural beauty of Kashmir with lakes and valleys."
+  },
+  {
+    "packageId": "PKG004",
+    "packageName": "Kumrat Tour",
+    "destination": "Kumrat, Pakistan",
+    "duration": "3 Days",
+    "description": "Experience the peaceful and green Kumrat Valley."
+  },
+  {
+    "packageId": "PKG005",
+    "packageName": "Skardu and Deosai",
+    "destination": "Skardu, Pakistan",
+    "duration": "6 Days",
+    "description": "Adventure tour covering Skardu and Deosai Plains."
+  },
+  {
+    "packageId": "PKG006",
+    "packageName": "Hunza Valley Tour",
+    "destination": "Hunza, Pakistan",
+    "duration": "5 Days",
+    "description": "Discover the beauty of Hunza Valley and its surroundings."
+  },
+  {
+    "packageId": "PKG007",
+    "packageName": "Fairy Meadows Tour",
+    "destination": "Fairy Meadows, Pakistan",
+    "duration": "5 Days",
+    "description": "Scenic tour to Fairy Meadows with views of Nanga Parbat."
+  },
+  {
+    "packageId": "PKG008",
+    "packageName": "Skardu and Hunza Valley",
+    "destination": "Skardu and Hunza, Pakistan",
+    "duration": "8 Days",
+    "description": "Complete northern tour covering Skardu and Hunza Valley."
+  },
+  {
+    "packageId": "PKG009",
+    "packageName": "Kumrat Valley Tour",
+    "destination": "Kumrat, Pakistan",
+    "duration": "4 Days",
+    "description": "Relaxing tour of Kumrat Valley with rivers and forests."
+  },
+  {
+    "packageId": "PKG010",
+    "packageName": "Kashmir Valley Tour",
+    "destination": "Valley, Pakistan",
+    "duration": "3 Days",
+    "description": "Short trip to beautiful Kashmir Valley."
+  },
+  {
+    "packageId": "PKG011",
+    "packageName": "Neelum Valley Tour",
+    "destination": "Neelum, Pakistan",
+    "duration": "4 Days",
+    "description": "Beautiful rivers and valleys of Neelum."
+  }
+]
