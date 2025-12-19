@@ -1,11 +1,14 @@
 const express = require("express");
 const fs = require("fs");
-const env=require("dotenv");
+const env=require("dotenv").config();
 const path=require("path");
 const app = express();
+const mongoose = require('mongoose');
 const PORT = 3000;
 
 app.use(express.json());
+
+mongoose.connect(process.env.MONGODB_URI).then(() => console.log('connected to mongodb'));
 
 function readPackages() {
     const data = fs.readFileSync(path.join(__dirname,"packages.json"));
@@ -55,6 +58,7 @@ app.post("/package/:id", (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
+
 
 
 
