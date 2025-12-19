@@ -7,7 +7,7 @@ const PORT = 3000;
 app.use(express.json());
 
 function readPackages() {
-    const data = fs.readFileSync("./packages.json");
+    const data = fs.readFileSync("/packages.json");
     return JSON.parse(data);
 }
 
@@ -54,4 +54,5 @@ app.post("/package/:id", (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
+
 
